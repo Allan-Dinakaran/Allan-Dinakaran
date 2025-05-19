@@ -15,7 +15,7 @@
 
 ## 📈 GitHub Stats
 
-![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan-Dinakaran&show_icons=true&theme=default)
+![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan-Dinakaran&show_icons=true&theme=dark)
 
 ## 📢 Let's Connect!
 
