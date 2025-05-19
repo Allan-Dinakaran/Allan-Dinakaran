@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Allan Dinakaran
 
-<!--
-**Allan-Dinakaran/Allan-Dinakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Software Developer.
+- 🔭 Currently learning Java and Web essentials.
+- 🤝 Looking to collaborate on open source and innovative software ideas.
+- 📫 Can reach me by: [@allandinakaran@gmail.com](mailto:allan.dinakaran@gmail.com)<br/>
 
-Here are some ideas to get you started:
+## Languages I know/Learning
+- Python
+- Java
+- HTML(Learning)
+- CSS (Learning)
+- JS (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan-Dinakaran&show_icons=true&theme=default)
+
+## 📢 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/allan-dinakaran)
+- [Email](mailto:allan.dinakaran@gmail.com)
+- [GitHub](https://github.com/allan-dinakaran)
