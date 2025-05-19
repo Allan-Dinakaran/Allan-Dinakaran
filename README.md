@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Allan Dinakaran
 
-- 💻 Software Developer.
+- 📝 Studying CS in **Tamilnadu College Of Engineering(CBE)**
+- 🖥️ Started using Arch btw.
 - 🔭 Currently learning Java and Web essentials.
 - 🤝 Looking to collaborate on open source and innovative software ideas.
 - 📫 Can reach me by: [@allandinakaran@gmail.com](mailto:allan.dinakaran@gmail.com)<br/>
