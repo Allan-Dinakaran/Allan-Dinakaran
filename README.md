@@ -7,9 +7,9 @@
 - 📫 Can reach me by: [@allandinakaran@gmail.com](mailto:allan.dinakaran@gmail.com)<br/>
 
 ## Languages I know/Learning
-- Python
-- Java
-- HTML(Learning)
+- Python[Basic] ✅
+- Java [Basic] ✅
+- HTML [From MDN Web docs]✅
 - CSS (Learning)
 - JS (Learning)
 
