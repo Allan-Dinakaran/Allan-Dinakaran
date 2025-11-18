@@ -10,8 +10,9 @@
 - Python[Basic] ✅
 - Java [Basic] ✅
 - HTML [From MDN Web docs]✅
-- CSS (Learning)
+- CSS (Learning) **Left it 1/2 way through due to some other reasons to learn kotlin**
 - JS (Learning)
+- Kotlin (Learning) **Just started**
 
 ## 📈 GitHub Stats
 
