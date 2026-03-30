@@ -10,13 +10,9 @@
 - Python[Basic] ✅
 - Java [Basic] ✅
 - HTML [From MDN Web docs]✅
-- CSS (Learning) **Left it 1/2 way through due to some other reasons to learn kotlin**
+- CSS (Learning)
 - JS (Learning)
-- Kotlin (Learning) **Just started**
-
-## 📈 GitHub Stats
-
-![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan-Dinakaran&show_icons=true&theme=dark)
+- Kotlin (Learning)
 
 ## 📢 Let's Connect!
 
