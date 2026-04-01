@@ -1,26 +1,32 @@
 # 👋 Hi, I'm Allan Dinakaran
 
-- 📝 Studying CS in **Tamilnadu College Of Engineering(CBE)**
-- 🖥️ I'm using Arch btw
-- 🔭 Interested in Nix and Nixpkgs, working with nix build and nixpkgs-review.
-- 🤝 Looking to collaborate on open source and innovative software ideas.
-- 📫 Can reach me by: [@allandinakaran@gmail.com](mailto:allan.dinakaran@gmail.com)<br/>
+- 🖥️ Arch Linux user exploring reproducible systems
+- 🔭 Actively working with Nix and Nixpkgs
+- 🛠️ Reviewing and testing Nixpkgs pull requests
+- 🤝 Interested in open source systems and package management<br/>
 
-### 🛠️ Current Work
+## 🛠️ Current Work
 - Reviewing Nixpkgs PRs
 - Testing package builds using `nix build`
 - Exploring package failures and fixes <br/>
 
 ### 📌 Recent Contributions
-- Reviewed PR #502399 (gemini-cli-bin)
-- Tested PR #503383 (maddy)<br/>
 
-## Languages I know/Learning
-- Python[Basic] ✅
-- Java [Basic] ✅
-- HTML [From MDN Web docs]✅
-- CSS (Learning)
-- JS (Learning)
+- **PR #502399 (gemini-cli-bin)**
+  - Built using `nix build`
+  - Verified CLI functionality
+  - Observed minor runtime warning (~/.gemini missing)
+
+- **PR #503383 (maddy)**
+  - Build successful
+  - Encountered configuration + permission issues
+  - Investigated runtime behavior<br/>
+
+  ---
+
+### 🧠 Tech Stack
+- Python, Java (basic)
+- HTML, CSS, JavaScript (learning)
 
 ## 📢 Let's Connect!
 
