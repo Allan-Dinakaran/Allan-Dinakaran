@@ -5,8 +5,8 @@
 - 🛠️ Reviewing and testing Nixpkgs pull requests
 - 🤝 Interested in open source systems and package management<br/>
 
-## 🛠️ Current Work
-- Reviewing Nixpkgs PRs
+## 🛠️ Work
+- Reviewed 2 Nixpkgs PRs
 - Testing package builds using `nix build`
 - Exploring package failures and fixes <br/>
 
