@@ -25,11 +25,11 @@
   ---
 
 ### 🧠 Tech Stack
-- Python, Java (basic)
-- HTML, CSS, JavaScript (learning)
+- Python, Java
+- HTML, CSS, JavaScript, PHP
+- SQL
 
 ## 📢 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/allan-dinakaran)
 - [Email](mailto:allan.dinakaran@gmail.com)
-- [GitHub](https://github.com/allan-dinakaran)
