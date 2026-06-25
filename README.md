@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Allan Dinakaran
 
-- 🖥️ Arch Linux user exploring reproducible systems
-- 🔭 Actively working with Nix and Nixpkgs
-- 🛠️ Reviewing and testing Nixpkgs pull requests
+- 🖥️ Switched to Manjaro
+- 🔭 Working with Node js
 - 🤝 Interested in open source systems and package management<br/>
 
 ## 🛠️ Work
