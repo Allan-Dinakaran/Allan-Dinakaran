@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Allan Dinakaran
 
-- 🖥️ Switched to NixOS due to aur malware issues
+- 🖥️ Switched to NixOS due to aur malware issues. [Getting used to NixOS with Xfce]
 - 🔭 Working with Node js
 - 🤝 Interested in open source systems and package management<br/>
 
