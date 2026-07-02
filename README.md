@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Allan Dinakaran
 
-- 🖥️ Switched to Manjaro
+- 🖥️ Switched to NixOS due to aur malware issues
 - 🔭 Working with Node js
 - 🤝 Interested in open source systems and package management<br/>
 
